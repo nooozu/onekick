@@ -1,0 +1,11 @@
+﻿  CharSelect.cpp
+c:\users\austin\desktop\onekick\basebox.h(23): warning C4458: 'pos' を宣言すると、クラス メンバーが隠蔽されます
+  c:\users\austin\desktop\onekick\basebox.h(12): note: 'Basebox::pos' の宣言を確認してください
+c:\users\austin\desktop\onekick\basebox.h(27): warning C4458: 'offset' を宣言すると、クラス メンバーが隠蔽されます
+  c:\users\austin\desktop\onekick\basebox.h(13): note: 'Basebox::offset' の宣言を確認してください
+c:\users\austin\desktop\onekick\controller.h(15): warning C4458: 'index' を宣言すると、クラス メンバーが隠蔽されます
+  c:\users\austin\desktop\onekick\controller.h(7): note: 'Controller::index' の宣言を確認してください
+c:\users\austin\desktop\onekick\character.h(53): warning C4458: 'status' を宣言すると、クラス メンバーが隠蔽されます
+  c:\users\austin\desktop\onekick\character.h(28): note: 'Character::status' の宣言を確認してください
+c:\users\austin\desktop\onekick\charselect.cpp(114): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+  OneKick.vcxproj -> C:\Users\Austin\Desktop\OneKick\Debug\OneKick.exe
